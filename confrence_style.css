@@ -1,7 +1,9 @@
+/* Header id, using Google Fonts */
 #header {
     font-family: 'Julius Sans One', sans-serif;
 }
 
+/* Using Bootstrap to make gradient background */
 
 body {
     background-image: linear-gradient(to right, #ff000000, #99CC99 );
