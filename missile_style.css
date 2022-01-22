@@ -1,0 +1,25 @@
+/* Formatting buttons to have a reasonable distance from eachother and to be big and obvious */
+
+#test {
+    font-weight: bold;
+    font-size: 60px;
+    
+
+}
+
+#real-alert {
+    font-weight: bold;
+    font-size: 60px;
+    text-decoration: underline;
+    
+
+}
+
+/* Background color that contrasts the buttons so they stand out */
+
+body {
+    background-color: #000000;
+}
+
+
+

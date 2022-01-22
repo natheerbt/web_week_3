@@ -1,14 +1,18 @@
+/* Setting background color and changing font */
+
 body {
     font-family: 'Nanum Gothic', sans-serif;
     background-color: #333333;
-
-
 }
+
+/* Overwritting Bootstrap stylesheet properties */
 
 .jumbotron {
     font-family: 'Bebas Neue', cursive;
 
 }
+
+/* Hexadecimal color values practice */
 
 .form-check {
     color: #ffffff;

@@ -1,3 +1,5 @@
+/* Overwritting Bootstrap stylesheet */
+
 #jumbo {
     background-color: #FF9999;
     text-align: center;
@@ -5,16 +7,27 @@
     color: #FFFFFF;
 }
 
+/* Setting background color of entire document */
 
 body {
     background-color: #663333;
 }
+
+/* Setting background color of sample code  */
 
 .code {
     background-color: #999999;
     color: #FFFFFF;
 }
 
+/* Class that changes the font color of different paragraphs */
+
 .text {
     color: #FFFFFF;
+}
+
+/* Id that changes hyperlink color */
+
+#link {
+    color:#FF9999;
 }
